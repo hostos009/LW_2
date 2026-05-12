@@ -1,0 +1,170 @@
+{
+  "leaderboard": {
+    "host": {
+      "wins": 7,
+      "losses": 2,
+      "draws": 0
+    },
+    "q": {
+      "wins": 0,
+      "losses": 7,
+      "draws": 0
+    },
+    "w": {
+      "wins": 2,
+      "losses": 0,
+      "draws": 0
+    },
+    "e": {
+      "wins": 0,
+      "losses": 2,
+      "draws": 0
+    }
+  },
+  "matchHistory": [
+    {
+      "id": 1778506560654,
+      "date": "11.05.2026",
+      "p1": "host",
+      "p2": "PC",
+      "ch1": "rock",
+      "ch2": "paper",
+      "winner": "PC"
+    },
+    {
+      "id": 1778506570224,
+      "date": "11.05.2026",
+      "p1": "host",
+      "p2": "q",
+      "ch1": "scissors",
+      "ch2": "paper",
+      "winner": "host"
+    },
+    {
+      "id": 1778506597298,
+      "date": "11.05.2026",
+      "p1": "host",
+      "p2": "q",
+      "ch1": "semifinal",
+      "ch2": "semifinal",
+      "winner": "host"
+    },
+    {
+      "id": 1778506597298,
+      "date": "11.05.2026",
+      "p1": "w",
+      "p2": "e",
+      "ch1": "semifinal",
+      "ch2": "semifinal",
+      "winner": "w"
+    },
+    {
+      "id": 1778507109016,
+      "date": "11.05.2026",
+      "p1": "host",
+      "p2": "q",
+      "ch1": "semifinal",
+      "ch2": "semifinal",
+      "winner": "host"
+    },
+    {
+      "id": 1778507109039,
+      "date": "11.05.2026",
+      "p1": "e",
+      "p2": "w",
+      "ch1": "semifinal",
+      "ch2": "semifinal",
+      "winner": "e"
+    },
+    {
+      "id": 1778507346012,
+      "date": "11.05.2026",
+      "p1": "host",
+      "p2": "q",
+      "ch1": "semifinal",
+      "ch2": "semifinal",
+      "winner": "host"
+    },
+    {
+      "id": 1778507346032,
+      "date": "11.05.2026",
+      "p1": "w",
+      "p2": "e",
+      "ch1": "semifinal",
+      "ch2": "semifinal",
+      "winner": "w"
+    },
+    {
+      "id": 1778507783657,
+      "date": "11.05.2026",
+      "p1": "host",
+      "p2": "q",
+      "ch1": "semifinal",
+      "ch2": "semifinal",
+      "winner": "host"
+    },
+    {
+      "id": 1778507783680,
+      "date": "11.05.2026",
+      "p1": "w",
+      "p2": "e",
+      "ch1": "semifinal",
+      "ch2": "semifinal",
+      "winner": "w"
+    },
+    {
+      "id": 1778507799572,
+      "date": "11.05.2026",
+      "p1": "w",
+      "p2": "host",
+      "ch1": "final",
+      "ch2": "final",
+      "winner": "w"
+    },
+    {
+      "id": 1778508073683,
+      "date": "11.05.2026",
+      "p1": "host",
+      "p2": "PC",
+      "ch1": "paper",
+      "ch2": "scissors",
+      "winner": "PC"
+    },
+    {
+      "id": 1778508118142,
+      "date": "11.05.2026",
+      "p1": "host",
+      "p2": "q",
+      "ch1": "scissors",
+      "ch2": "paper",
+      "winner": "host"
+    },
+    {
+      "id": 1778508150906,
+      "date": "11.05.2026",
+      "p1": "host",
+      "p2": "q",
+      "ch1": "semifinal",
+      "ch2": "semifinal",
+      "winner": "host"
+    },
+    {
+      "id": 1778508150907,
+      "date": "11.05.2026",
+      "p1": "w",
+      "p2": "e",
+      "ch1": "semifinal",
+      "ch2": "semifinal",
+      "winner": "w"
+    },
+    {
+      "id": 1778508190335,
+      "date": "11.05.2026",
+      "p1": "w",
+      "p2": "host",
+      "ch1": "final",
+      "ch2": "final",
+      "winner": "w"
+    }
+  ]
+}
